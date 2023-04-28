@@ -28,7 +28,7 @@ function compraPassagem( preco ){
   <div>
    <h1> Pachequito passagens</h1>
   <p> Conheço os mundos pelo melhor preço</p>
-  <button> Contato </button>
+
   <button onClick={ ()=>AdicionarCredito()}> Adicionar Crédito</button>
 
 
