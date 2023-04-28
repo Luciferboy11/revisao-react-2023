@@ -37,6 +37,7 @@ function compraPassagem( preco ){
 <h2> Viagens </h2>
   <p>Los angeles - R$ 1200 <button onClick={()=>compraPassagem(1200)}>Comprar</button> </p>
   <p>Londres - R$ 1420 <button onClick={()=>compraPassagem(1420)}>Comprar</button> </p>
+  <p>França  - R$ 1700 <button onClick={()=>compraPassagem(1700)}>Comprar</button> </p>
 
   </div>
   );
